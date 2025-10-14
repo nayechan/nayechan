@@ -7,7 +7,6 @@
 
 | E-mail | 66f@naver.com |  |
 | --- | --- | --- |
-| GitHub | https://github.com/nayechan |  |
 | Solved.ac | https://solved.ac/profile/nayechan | Platinum 4 |  |
 
 ## Education
@@ -30,21 +29,3 @@
 - 2020 2학기 한성대학교 학과전공튜터링 튜터 선정
 - 2020 1학기 한성대학교 한성튜터링 튜터 선정
 - 2016 선린인터넷고등학교 모바일콘텐츠경진대회 동상
-
-# Game Develop Skill Set
-
-[Game Develop Skill Set](https://www.notion.so/028500901ed040e7b2624a64b2e1c32e?pvs=21)
-
-# Main Project
-
-[Main Projects](https://www.notion.so/9de2122ed76e46ca9a8a4a14f9bb9974?pvs=21)
-
-# Other Projects
-
-[제목 없음](https://www.notion.so/e41fad6d9c904513ae7774ed03dfb5e2?pvs=21)
-
-## Code Sample
-
-[InfinityRPG Code Sample](https://www.notion.so/InfinityRPG-Code-Sample-1252d0c9966480719903e86756e0a9c5?pvs=21)
-
-[Kahrta Code Sample](https://www.notion.so/Kahrta-Code-Sample-1252d0c9966480aca366fba8eef83c74?pvs=21)
