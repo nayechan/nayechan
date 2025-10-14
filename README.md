@@ -3,8 +3,6 @@
 
 높은 학점과 탄탄한 알고리즘 기본기를 바탕으로 기본에 충실한 개발자가 되겠습니다.
 
-## Personal Information
-- Email : 66f@naver.com
 ---
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nayechan)](https://solved.ac/nayechan/)
 ## Education
@@ -27,3 +25,6 @@
 - 2020 2학기 한성대학교 학과전공튜터링 튜터 선정
 - 2020 1학기 한성대학교 한성튜터링 튜터 선정
 - 2016 선린인터넷고등학교 모바일콘텐츠경진대회 동상
+
+## Contracts
+- Email : 66f@naver.com
