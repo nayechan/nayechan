@@ -4,11 +4,9 @@
 높은 학점과 탄탄한 알고리즘 기본기를 바탕으로 기본에 충실한 개발자가 되겠습니다.
 
 ## Personal Information
-
-| E-mail | 66f@naver.com |  |
-| --- | --- | --- |
-| Solved.ac | https://solved.ac/profile/nayechan | Platinum 4 |  |
-
+- Email : 66f@naver.com
+---
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nayechan)](https://solved.ac/nayechan/)
 ## Education
 
 - SW 마에스트로 12기 연수생
