@@ -6,7 +6,8 @@
 ---
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nayechan)](https://solved.ac/nayechan/)
 ## Education
-
+- 크래프톤 정글 게임테크랩 2기 연수생
+2025.9 ~
 - SW 마에스트로 12기 연수생
 2021.03 ~ 2021.11
 - 한성대학교 졸업
